@@ -17,3 +17,7 @@ Removes empty folders from the device recursively.
 
 # Languagues
 1. Kotlin
+
+# App Languagues
+1. Spanish
+2. English (soon)
